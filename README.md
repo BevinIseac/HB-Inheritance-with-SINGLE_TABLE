@@ -1,0 +1,1 @@
+# HB-Inheritance-with-SINGLE_TABLE
